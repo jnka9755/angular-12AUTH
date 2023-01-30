@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseURL: 'http://localhost:4000/api'
+  baseURL: 'https://node-12auth-backend-production.up.railway.app/api'
 };
